@@ -116,7 +116,7 @@ The raw dataset used for this analysis is included in this repository.
 
 Download it here:
 
-[Download Dataset](sales_dataset.csv)
+[Download Dataset](Sample-Superstore.csv)
 
 ---
 
