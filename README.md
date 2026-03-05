@@ -1,14 +1,12 @@
-# FUTURE_DS_01
-
 # 📊 Retail Sales Analysis | From Raw Data → Actionable Business Insights
 
 ## Dashboard Preview
 
 ### Executive Dashboard
-![Dashboard Overview](Dashboard_Task2.png)
+![Dashboard Overview](dashboard_preview.png.png)
 
 ### Detailed Analysis Dashboard
-![Dashboard Insights](Dashboard_Task3.png)
+![Dashboard Insights](dashboard_preview.png2.png)
 
 ---
 
@@ -59,3 +57,81 @@ These analyses help highlight **high-performing product categories and areas whe
 
 This project follows a typical analytics workflow:
 
+Raw Dataset (CSV / Excel)  
+↓  
+Data Cleaning & Preparation  
+↓  
+Data Modeling in Power BI  
+↓  
+DAX Measures & Calculations  
+↓  
+Interactive Visualizations  
+↓  
+Business Insights Dashboard  
+
+---
+
+## Workflow Steps
+
+### 1. Data Collection
+Raw retail sales dataset containing transactional records including revenue, orders, discounts, product categories, and geographic regions.
+
+### 2. Data Preparation
+The dataset was cleaned and structured to ensure consistency and remove missing or duplicate values.
+
+### 3. Data Modeling
+Relationships between tables were created inside Power BI to enable efficient analytical queries.
+
+### 4. DAX Calculations
+Custom DAX measures were developed to calculate key metrics such as:
+
+- Total Revenue  
+- Total Profit  
+- Profit Margin  
+- Average Discount Rate  
+
+### 5. Dashboard Development
+Interactive visuals, KPI cards, filters, and tooltips were designed to support dynamic business exploration.
+
+### 6. Insight Generation
+Key patterns were summarized through the **Smart Business Insights Panel** to highlight important business trends.
+
+---
+
+# Tools & Skills Applied
+
+- Microsoft Power BI  
+- Data Modeling  
+- DAX Measures  
+- Data Visualization  
+- Business Intelligence  
+- Interactive Dashboard Design  
+- Analytical Storytelling  
+
+---
+
+# Dataset
+
+The raw dataset used for this analysis is included in this repository.
+
+Download it here:
+
+[Download Dataset](sales_dataset.csv)
+
+---
+
+# Repository Contents
+
+Business sales performance analysis.pbix  
+dashboard_preview.png.png  
+dashboard_preview.png2.png  
+sales_dataset.csv  
+README.md  
+
+---
+
+# Author
+
+**Ritch Rai**
+
+Aspiring Data Analyst focused on transforming raw data into **actionable business insights through analytics and visualization**.
